@@ -1,6 +1,6 @@
-package Ex003;
+package Ex001_SimplifyComplexFractions;
 
-public class Main003 {
+public class Main001 {
     public static void main(String[] args) {
         // Rút gọn phân số
 
